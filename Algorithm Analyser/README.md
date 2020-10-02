@@ -1,4 +1,4 @@
-# SortingVisualizer
+# AlgorithmVisualizer (Few more Algorithm visualizer to be added)
 This is a visualization tool for various sorting algorithms
 <br><br>
 1.BubbleSort<br>
