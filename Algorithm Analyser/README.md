@@ -1,5 +1,5 @@
 # AlgorithmVisualizer (Few more Algorithm visualizer to be added)
-This is a visualization tool for various sorting algorithms
+Till now codes for various sorting algorithms has been added
 <br><br>
 1.BubbleSort<br>
 2.SelectionSort<br>
